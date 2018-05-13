@@ -1,0 +1,5 @@
+TOKEN = 'REPLACE WITH BOT TOKEN'
+LOOKUP_ALL = 2
+LOOKUP_SEASON = 3
+SEASONS = {'season3', 'season4'}
+INVALID_COMMAND = "**ERROR** Invalid command"
