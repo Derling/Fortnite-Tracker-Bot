@@ -1,7 +1,6 @@
 import discord
 import fort_client as fc
-from bot_constants import TOKEN, LOOKUP_ALL, LOOKUP_SEASON, \
-    SEASONS, INVALID_COMMAND
+from bot_constants import TOKEN, INVALID_COMMAND
 
 client = discord.Client()
 
